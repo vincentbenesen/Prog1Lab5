@@ -1,0 +1,7 @@
+Vincent . 80
+James . 10
+Jeremie . 80
+Bryan . 20
+Ali . 90
+Adrian . 70
+Roniel . 78
